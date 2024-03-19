@@ -1,0 +1,45 @@
+ body{
+    background-color: darkgrey;
+} 
+
+
+
+#titulo {
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(21, 27, 29);
+}
+
+.abs-center {
+    background: rgb(167, 167, 167);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.form {
+    width: 550px;
+    border: white 5px solid;
+    border-radius: 1em;
+    margin-bottom: 100px;
+
+}
+  
+.datos{
+    font-weight: 700;
+}
+
+.card {
+    display: none;
+}
+
+.navegador{
+  background: rgb(19, 53, 55) !important;
+}
+
+.modulos{
+  color: white;
+  font-weight: bolder;
+}
